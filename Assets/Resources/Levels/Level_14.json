@@ -1,0 +1,56 @@
+{
+    "seed": -1398299729,
+    "levelName": "Level_14",
+    "gridSize": {
+        "x": 4,
+        "y": 4
+    },
+    "blockerPositions": [
+        {
+            "x": 1,
+            "y": 0
+        },
+        {
+            "x": 3,
+            "y": 0
+        },
+        {
+            "x": 0,
+            "y": 2
+        },
+        {
+            "x": 2,
+            "y": 3
+        }
+    ],
+    "initialPiecePositions": [
+        {
+            "position": {
+                "x": 1,
+                "y": 2
+            },
+            "pieceType": 0
+        },
+        {
+            "position": {
+                "x": 3,
+                "y": 3
+            },
+            "pieceType": 1
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 2
+            },
+            "pieceType": 2
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 1
+            },
+            "pieceType": 3
+        }
+    ]
+}

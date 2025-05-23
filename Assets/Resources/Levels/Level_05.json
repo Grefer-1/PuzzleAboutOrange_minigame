@@ -1,0 +1,56 @@
+{
+    "seed": 35280919,
+    "levelName": "Level_05",
+    "gridSize": {
+        "x": 4,
+        "y": 4
+    },
+    "blockerPositions": [
+        {
+            "x": 3,
+            "y": 2
+        },
+        {
+            "x": 3,
+            "y": 1
+        },
+        {
+            "x": 3,
+            "y": 3
+        },
+        {
+            "x": 0,
+            "y": 1
+        }
+    ],
+    "initialPiecePositions": [
+        {
+            "position": {
+                "x": 1,
+                "y": 3
+            },
+            "pieceType": 0
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 2
+            },
+            "pieceType": 1
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 1
+            },
+            "pieceType": 2
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 3
+            },
+            "pieceType": 3
+        }
+    ]
+}
